@@ -1,1 +1,10 @@
+![Screenshot (103)](https://user-images.githubusercontent.com/113407444/227125661-3bdf277a-7819-4d20-820c-0ae3700ab1c7.png)
+![Screenshot (112)](https://user-images.githubusercontent.com/113407444/227125676-8b70a4c4-858e-4ef1-ae7d-c043849bc7d4.png)
+![Screenshot (116)](https://user-images.githubusercontent.com/113407444/227125704-72d7d774-566b-4fd0-ade3-161227f4140f.png)
+![question-10 date-22 assignement](https://user-images.githubusercontent.com/113407444/227125721-2fc21f51-8a60-45b2-ac1c-e722929cdbb4.png)
+![question-4 date-22 assignement](https://user-images.githubusercontent.com/113407444/227125865-8110b991-dbef-4c06-bb13-a8fa930ef7c7.png)
+![Screenshot (102)](https://user-images.githubusercontent.com/113407444/227125969-a0b5a89c-df44-41dd-89b9-33d462f7317b.png)
+![Screenshot (103)](https://user-images.githubusercontent.com/113407444/227126015-1f42d863-67a2-48fd-9e40-873cd809c605.png)
+![Screenshot (104)](https://user-images.githubusercontent.com/113407444/227126024-ce3a631a-b4ba-4c47-9573-b2307fde6712.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/113407444/227126031-a2810262-2d10-44ab-aa3e-8cbdc3925deb.png)
 # CSA0256-C-PROGRAMMING
